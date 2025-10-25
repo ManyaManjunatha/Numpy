@@ -1,2 +1,2 @@
 # Numpy
-im learning dumpy here
+im learning numpy here
